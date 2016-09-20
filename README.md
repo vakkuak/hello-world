@@ -1,2 +1,6 @@
 # hello-world
-This is Hello World!
+
+Hi,
+
+I like coffee and computers.
+
